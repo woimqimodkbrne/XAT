@@ -1,24 +1,24 @@
 [
-    {
-        "Author": "Asgard",
-        "Name": "XAT",
-        "Description": "Create and edit animations and cutscenes",
-        "InternalName": "XAT.Plugin",
-        "AssemblyVersion": "2023.10.3.2301",
-        "TestingAssemblyVersion": "2023.10.3.2301",
-        "RepoUrl": "https://github.com/Etheirys/XAT",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
-        "LoadRequiredState": 2,
-        "LoadSync": true,
-        "DownloadLinkInstall": "https://github.com/Etheirys/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-        "DownloadLinkTesting": "https://github.com/Etheirys/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-        "DownloadLinkUpdate": "https://github.com/Etheirys/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Etheirys/XAT/master/Resources/Images/XATIcon.png"
-    }
+  {
+    "Author": "Asgard",
+    "Name": "XAT",
+    "Description": "Create and edit animations and cutscenes",
+    "InternalName": "XAT.Plugin",
+    "AssemblyVersion": "2023.10.3.2300",
+    "TestingAssemblyVersion": "2023.10.3.2300",
+    "RepoUrl": "https://github.com/Etheirys/XAT",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/XAT/releases/download/2023.10.3.2300/XAT.Plugin.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/XAT/releases/download/2023.10.3.2300/XAT.Plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/XAT/releases/download/2023.10.3.2300/XAT.Plugin.zip",
+    "IconUrl": "https://raw.githubusercontent.com/woimqimodkbrne/XAT/master/Resources/Images/XATIcon.png"
+  }
 ]
